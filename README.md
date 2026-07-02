@@ -11,25 +11,6 @@ A dedicated university student striving to become a professional full-stack web 
 * ✉️  You can contact me at [pontakonunmueang@gmail.com](mailto:pontakonunmueang@gmail.com)
 * 🧠  I'm currently learning Learning AI, Antigravity. 🌌
 
-<p align="left">
-  <!-- GitHub -->
-  <a href="https://www.github.com/pontakon00" target="_blank" rel="noreferrer">
-    <picture>
-      <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github-dark.svg" />
-      <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github.svg" />
-      <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github.svg" width="32" height="32" alt="GitHub" title="GitHub" />
-    </picture>
-  </a>
-
-  <!-- GitLab (แก้ไขแล้ว) -->
-  <a href="https://www.gitlab.com/pontakon00" target="_blank" rel="noreferrer">
-    <picture>
-      <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/gitlab-dark.svg" />
-      <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/gitlab.svg" />
-      <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/gitlab.svg" width="32" height="32" alt="GitLab" title="GitLab" />
-    </picture>
-  </a>
-
   <!-- Discord -->
   <a href="https://discord.com/users/783283807699599391" target="_blank" rel="noreferrer">
     <picture>
