@@ -1,15 +1,15 @@
-# Hi there! 👋 My name is Pontakon Unmueang
+Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif) My name is Pontakon Unmueang
+==========================================================================================================================================
 
-<img src="https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif" width="300" />
+Web-developer
+-------------
 
-## 👨‍💻 Web Developer
 A dedicated university student striving to become a professional full-stack web developer.
 
-* 🌍 I'm based in **University of Phayao**
-* 🖥️ See my portfolio at [Portfolio Link](http://drive.google.com/file/d/1dmyJslP2JhnKc6pa2pUh-2xeF1f_Lctq/view?usp=drive_link)
-* ✉️ Contact me at [pontakonunmueang@gmail.com](mailto:pontakonunmueang@gmail.com)
-* 🧠 Currently learning: **AI & Antigravity** 🌌
-
+* 🌍  I'm based in University of phayao
+* 🖥️  See my portfolio at [see me](http://drive.google.com/file/d/1dmyJslP2JhnKc6pa2pUh-2xeF1f_Lctq/view?usp=drive_link)
+* ✉️  You can contact me at [pontakonunmueang@gmail.com](mailto:pontakonunmueang@gmail.com)
+* 🧠  I'm currently learning Learning AI, Antigravity. 🌌
 ---
 
 ## 🛠 Tech Stack
